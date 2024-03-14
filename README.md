@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backstage Internal Developer Platform**
 
-- 📝 I regularly write articles on [https://medium.com/@portelagabriel](https://medium.com/@portelagabriel)
+- 📝 I write articles on [https://medium.com/@portelagabriel](https://medium.com/@portelagabriel)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gabportela/](https://www.linkedin.com/in/gabportela/)
 
