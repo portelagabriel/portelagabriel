@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gabriel Portela</h1>
-<h3 align="center">DevOps practioner from Brazil</h3>
-
-- 🔭 I’m currently working on [Backstage](https://github.com/portelagabriel/backstage-app)
-
-- 🌱 I’m currently learning **Backstage Internal Developer Platform**
-
-- 📝 I write articles on [https://medium.com/@portelagabriel](https://medium.com/@portelagabriel)
 
 <h3 align="left">Connect with me and see my experiences:</h3>
 <p align="left">
